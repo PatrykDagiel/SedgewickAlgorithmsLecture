@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SedgewickAlgorithmsLecture_main" target="1.5" />
-      <module name="SedgewickAlgorithmsLecture_test" target="1.5" />
+      <module name="SedgewickAlgorithmsLecture_main" target="1.8" />
+      <module name="SedgewickAlgorithmsLecture_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="CopyrightManager" default="" />
@@ -201,15 +201,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="stdlib">
-      <CLASSES>
-        <root url="jar://$PROJECT_DIR$/lib/stdlib.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="jar://$PROJECT_DIR$/lib/stdlib.jar!/" />
       </SOURCES>
     </library>
   </component>

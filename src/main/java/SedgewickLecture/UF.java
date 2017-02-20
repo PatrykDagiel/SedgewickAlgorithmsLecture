@@ -9,7 +9,7 @@ public class UF {
     boolean connected(int p, int q) {return true;};
 
     public static void main(String[] args) {
-
+        
     }
 
 }
